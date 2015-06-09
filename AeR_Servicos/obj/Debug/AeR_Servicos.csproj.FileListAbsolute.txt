@@ -1,0 +1,10 @@
+d:\documentos\documents\visual studio 2015\Projects\AeR_Servicos\AeR_Servicos\bin\Debug\AeR_Servicos.exe.config
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\bin\Debug\AeR_Servicos.exe
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\bin\Debug\AeR_Servicos.pdb
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.Properties.Resources.resources
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.csproj.GenerateResource.Cache
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.exe
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.pdb
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.formTelaPrincipal.resources
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.formCliente.resources
+D:\Documentos\Documents\Visual Studio 2015\Projects\AeR_Servicos\AeR_Servicos\obj\Debug\AeR_Servicos.csprojResolveAssemblyReference.cache
